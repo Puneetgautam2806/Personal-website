@@ -1,0 +1,157 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+
+}
+
+h1{
+  margin-top: 0;
+font-family: 'Merienda One', cursive;
+font-size:80px;
+color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Rakkas', cursive;
+    font-size: 40px;
+    color: #66BFBF;
+padding-bottom: 10px;
+  }
+
+  h3 {
+    font-family: 'Rakkas', cursive;
+      font-size: 30px;
+    color: #11999E;
+    }
+
+a{
+  color: #11999E;
+  margin: 10px 20px;
+
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 5%;
+margin: 100px auto;
+}
+
+.upper-head{
+  font-family: 'Abel', sans-serif;
+  font-size:30px;
+   color: #66BFBF;
+   font-weight: normal;
+   line-height: 2;
+}
+
+.bottam-content{
+font-family: 'Peddana', serif;
+  font-size: 32px;
+    height: 300px;
+    width: 900px;
+  margin: auto;
+}
+.mail{
+  font-family: 'Peddana', serif;
+    font-size: 32px;
+  height: 200px;
+  width: 720px;
+  margin: auto;
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+   position: relative;
+     padding-top: 95px;
+}
+.middle-container{
+  margin: 80px 0;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 30px 0 20px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right:250px;
+}
+
+.bottam-cloud {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+}
+
+
+.Instagram {
+  height: 50px;
+  width:50px;
+  }
+
+
+.fb {
+  height: 50px;
+  width:70px;
+}
+
+.web-development{
+  width:25%;
+  float: left;
+margin-right: 50px;
+
+}
+
+.web-design{
+  width:25%;
+  margin-left: 50px;
+  float: right;
+}
+
+.skill-row{
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+  }
+
+.contact-me{
+width: 53%;
+margin: 40px auto 50px;
+}
+
+
+
+.btn {
+	box-shadow: 0 10px 14px -7px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:14px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:15px 21px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 13px
+}
