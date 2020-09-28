@@ -8,20 +8,20 @@ body{
 h1{
   margin-top: 0;
 font-family: 'Merienda One', cursive;
-font-size:80px;
+font-size:5rem;
 color: #66BFBF;
 }
 
 h2 {
   font-family: 'Rakkas', cursive;
-    font-size: 40px;
+    font-size: 2rem;
     color: #66BFBF;
 padding-bottom: 10px;
   }
 
   h3 {
     font-family: 'Rakkas', cursive;
-      font-size: 30px;
+      font-size: 1.8rem;
     color: #11999E;
     }
 
@@ -40,7 +40,7 @@ margin: 100px auto;
 
 .upper-head{
   font-family: 'Abel', sans-serif;
-  font-size:30px;
+  font-size:1.8rem;
    color: #66BFBF;
    font-weight: normal;
    line-height: 2;
@@ -48,14 +48,14 @@ margin: 100px auto;
 
 .bottam-content{
 font-family: 'Peddana', serif;
-  font-size: 32px;
+  font-size: 1.9rem;
     height: 300px;
     width: 900px;
   margin: auto;
 }
 .mail{
   font-family: 'Peddana', serif;
-    font-size: 32px;
+    font-size: 1.9rem;
   height: 200px;
   width: 720px;
   margin: auto;
@@ -77,14 +77,14 @@ padding: 30px 0 20px;
 }
 .top-cloud {
   position: absolute;
-  top: 50px;
+  top:30px;
   right:250px;
 }
 
 .bottam-cloud {
   position: absolute;
-  top: 300px;
-  left: 300px;
+  top:350px;
+  left:300px;
 }
 
 
