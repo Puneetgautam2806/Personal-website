@@ -123,10 +123,8 @@ margin-right: 50px;
 
 .contact-me{
 width: 53%;
-margin-left: auto;
-margin-right: auto;
-text-align: center;
 display: block;
+margin: auto;
 justify-content: center;
 }
 
