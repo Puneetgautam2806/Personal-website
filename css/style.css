@@ -32,10 +32,12 @@ a{
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted grey 6px;
 border-bottom: none;
 width: 5%;
-margin: 100px auto;
+margin:auto;
+margin-top: 100px;
+margin-bottom: 100px;
 }
 
 .upper-head{
@@ -53,11 +55,23 @@ font-family: 'Peddana', serif;
     width: 700px;
   margin: auto;
 }
+
+.profile-bottam-content{
+text-align: center;
+margin-right: 200px;
+margin-left: 200px;
+}
+.development-bottam-content{
+  text-align: left;
+  padding-top: 10px;
+}
+.design-bottam-content{
+  text-align:left;
+}
 .mail{
   font-family: 'Peddana', serif;
     font-size: 1.9rem;
-  height: 200px;
-  width: 720px;
+   width: 720px;
   margin: auto;
 
 }
@@ -87,10 +101,6 @@ padding: 30px 0 20px;
   left:150px;
 }
 
-
-
-
-
 .web-development{
   width:25%;
   float: left;
@@ -114,6 +124,7 @@ margin-right: 50px;
 .contact-me{
 width: 53%;
 margin: 40px auto 50px;
+text-align: center;
 }
 
 .footer-link:hover{
