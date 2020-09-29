@@ -123,10 +123,13 @@ margin-right: 50px;
 
 .contact-me{
 width: 53%;
-margin: 40px auto 50px;
+margin: 40px 300px 300px;
 text-align: center;
 }
 
+.heading-skills{
+  font-size:50px
+}
 .footer-link:hover{
   color:white;
 }
