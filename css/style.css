@@ -123,8 +123,11 @@ margin-right: 50px;
 
 .contact-me{
 width: 53%;
-margin: 40px 300px 300px;
+margin-left: auto;
+margin-right: auto;
 text-align: center;
+display: block;
+justify-content: center;
 }
 
 .heading-skills{
